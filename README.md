@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎙️ AI Voice App ![Build](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/Ai-Voice-App?style=social)
 
-## Getting Started
+An intelligent AI-powered voice assistant application built with cutting-edge web technologies.  
+Originally developed by **Ronit**, extended and improved collaboratively by **Anurag & Riya** for **SIH 2025**.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Features
+- 🎤 Voice command recognition
+- 💡 Smart task execution (search, open apps, reminders, etc.)
+- 🌐 Web integration (Google, Wikipedia, YouTube APIs)
+- 🤖 AI/ML model for natural response generation
+- 🎨 User-friendly UI
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Tech Stack
+- **Frontend:** React.js, Tailwind CSS
+- **Backend:** Node.js, Express
+- **AI/ML:** Python, SpeechRecognition, OpenAI APIs
+- **Database:** MongoDB
+- **Version Control:** Git & GitHub
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📂 Project Structure
+Ai-Voice-App/
+│── frontend/ # React + Tailwind frontend  
+│── backend/ # Node.js API server  
+│── models/ # AI/ML models  
+│── docs/ # Documentation & diagrams  
+│── README.md # Project documentation
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🎯 SIH 2025 Goals
+- Enhance accuracy of voice recognition
+- Add **multi-language support (English + Hindi)**
+- Build **offline mode** for rural accessibility
+- Improve UI/UX for better usability
+- Deploy live demo (Heroku/Vercel)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 👨‍💻 Team Members
+- **Anurag Kumar** – Full Stack + AI Innovator
+- **Riya** – UI/UX & Testing Lead
+- **Ronit** – Initial Developer & Mentor
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📸 Screenshots / Diagrams
+
+![alt text](public/flowchart-1.png)
+---
+
+## 📜 License
+This project is licensed under the MIT License – free to use and improve.
