@@ -1,4 +1,4 @@
-# 🎙️ AI Voice App ![Build](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/Ai-Voice-App?style=social)
+# 🎙️ AI Voice App ![Build](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Stars](https://img.shields.io/github/stars/anuragji111/Ai-Voice-App?style=social)
 
 An intelligent AI-powered voice assistant application built with cutting-edge web technologies.  
 Originally developed by **Ronit**, extended and improved collaboratively by **Anurag & Riya** for **SIH 2025**.
